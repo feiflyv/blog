@@ -8,7 +8,7 @@ permalink: /about/
 
 ### 职业技能
 
-1.熟悉 java 语言、java nio、多线程，缓存、消息等机制  <br/>
+1.熟悉 java 语言，java nio、多线程、缓存、消息等机制  <br/>
 2.熟练掌握 ssm 等常用框架，并有丰富的实际运用经验 <br/>
 3.熟悉关系型数据库 mysql、oracle 和 redis NoSQL 数据库 <br/>
 4.熟悉网络通信，网络编程并对不同协议的通信有了解 <br/>
