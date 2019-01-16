@@ -31,7 +31,7 @@ permalink: /about/
 QQ: 454406780 <br/>
 邮箱地址：[feiflyv@gmail.com](mailto:feiflyv@gmail.com)
 
-
+base: {{ site.baseurl }}
 <iframe style=" float:right;max-width:100%" 
       frameborder="no" 
       border="0" 
@@ -39,5 +39,5 @@ QQ: 454406780 <br/>
       marginheight="0" 
       width="700px" 
       height="350px" 
-      src="{{ site.baseurl }}/footprint/index.html">                                        
+      src="/blog/footprint/index.html">                                        
 </iframe>
