@@ -30,3 +30,14 @@ permalink: /about/
 电话：137****1078 <br/>
 QQ: 454406780 <br/>
 邮箱地址：[feiflyv@gmail.com](mailto:feiflyv@gmail.com)
+
+
+<iframe style=" float:right;max-width:100%" 
+      frameborder="no" 
+      border="0" 
+      marginwidth="0" 
+      marginheight="0" 
+      width="700px" 
+      height="350px" 
+      src="footprint/index.html">                                        
+</iframe>
