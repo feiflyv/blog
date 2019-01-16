@@ -39,5 +39,5 @@ QQ: 454406780 <br/>
       marginheight="0" 
       width="700px" 
       height="350px" 
-      src="footprint/index.html">                                        
+      src="/footprint/index.html">                                        
 </iframe>
